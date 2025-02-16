@@ -7,7 +7,7 @@ import LoadingBar from "react-top-loading-bar";
 
 class App extends Component {
   state = {
-    progress: 50,
+    progress: 10,
   };
 
   setProgress = (progress) => {
